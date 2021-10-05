@@ -7,4 +7,4 @@
 
 ## Authors
 * <a href="https://github.com/Costopoulos">Constantinos Costopoulos</a>
-* <a href="https://github.com/Tsaousis">Costas Tsaousis</a>
+* <a href="https://github.com/Tsaousis">Costantinos Tsaousis</a>
